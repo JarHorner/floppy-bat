@@ -23,7 +23,7 @@ Floppy Bat is a simple tap-to-flap arcade game built in Unity. You control a bat
 
 ## Notes for anyone forking
 
-- The AdMob app/unit IDs embedded in the project belong to the original publisher. If you plan to build and distribute, replace them with your own (or with [Google's test IDs](https://developers.google.com/admob/unity/test-ads)).
+- AdMob is wired up with [Google's public test IDs](https://developers.google.com/admob/unity/test-ads) — safe to build and run, but replace them with your own before distributing.
 - Keystore, signing, and store-listing assets are not included.
 
 ## License
